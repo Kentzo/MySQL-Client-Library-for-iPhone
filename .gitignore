@@ -1,0 +1,8 @@
+*.zip
+ 
+# osx noise
+.DS_Store
+profile
+ 
+# emacs noise
+*~
